@@ -13,5 +13,8 @@ Selanjutnya yang ke 4 yaitu pemakaian prompt seperti yang di lihat di bawah ini.
 ![Lab Java (4)](https://user-images.githubusercontent.com/56400200/116767078-128ce680-aa58-11eb-87f3-3718e6a754cc.PNG)
 ![Lab java (4 ke 2)](https://user-images.githubusercontent.com/56400200/116767122-3f40fe00-aa58-11eb-9a66-934104d6f2d6.PNG)
 Yang ke 5 selanjutnya yaitu pembuatan fungsi dan cara pemanggilannya, refresh kembali dan lihat perubahannya.
+![Lab java 5](https://user-images.githubusercontent.com/56400200/116767294-795ecf80-aa59-11eb-9037-bf61aa085258.PNG)
+
+
 
 
