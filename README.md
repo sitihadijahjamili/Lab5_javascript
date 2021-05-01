@@ -28,6 +28,8 @@ Ke Delapan yaitu penggunaan operator switch untuk seleksi kondisi. Refresh kemba
 ![Lab java (8 ke 2)](https://user-images.githubusercontent.com/56400200/116767883-1cfdaf00-aa5d-11eb-9502-cdc87c2d5c54.PNG)
 Yang ke Sembilan yaitu selanjutnya pembuatan form input. refresh dan lihat perubahannya.
 ![Lab java 9](https://user-images.githubusercontent.com/56400200/116767963-95fd0680-aa5d-11eb-85d6-f8d20fe021c9.PNG)
+![Lab java (9)](https://user-images.githubusercontent.com/56400200/116768001-ce044980-aa5d-11eb-9c6d-ba5d71133769.PNG)
+Langkah ke 10 yaitu pembuatan form Button seperti berikut ini. kemudian refresh kembali dan lihat perubahannya.
 
 
 
