@@ -4,6 +4,6 @@ Buatlah dokumen HTML dengan menamakan file lab5_javascript.html dan koding seper
 ![Lab Java (1)](https://user-images.githubusercontent.com/56400200/116766487-f63b7a80-aa54-11eb-9e29-4c97c3e92771.PNG)
 Kedua yaitu javascript dasaar pemakaian alert sebagai propety windownya. refresh kembali dan lihat hasilnya 
 ![Lab Java 2](https://user-images.githubusercontent.com/56400200/116766580-706bff00-aa55-11eb-983a-eceb104b9dc9.PNG)
-
-
+![Lab Java (2)](https://user-images.githubusercontent.com/56400200/116766712-1d467c00-aa56-11eb-8eae-dab7ef144562.PNG)
 Langkah ke 3 selanjutnya pemakaian method dalam objek seperti berikut ini. refresh kembali untuk melihat hasil dan perubahannya.
+
