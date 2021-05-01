@@ -30,7 +30,7 @@ Yang ke Sembilan yaitu selanjutnya pembuatan form input. refresh dan lihat perub
 ![Lab java 9](https://user-images.githubusercontent.com/56400200/116767963-95fd0680-aa5d-11eb-85d6-f8d20fe021c9.PNG)
 ![Lab java (9)](https://user-images.githubusercontent.com/56400200/116768001-ce044980-aa5d-11eb-9c6d-ba5d71133769.PNG)
 Langkah ke 10 yaitu pembuatan form Button seperti berikut ini. kemudian refresh kembali dan lihat perubahannya.
-
+![Lab java 10](https://user-images.githubusercontent.com/56400200/116768066-3521fe00-aa5e-11eb-92b2-b063abbf5195.PNG)
 
 
 
