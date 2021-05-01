@@ -14,6 +14,9 @@ Selanjutnya yang ke 4 yaitu pemakaian prompt seperti yang di lihat di bawah ini.
 ![Lab java (4 ke 2)](https://user-images.githubusercontent.com/56400200/116767122-3f40fe00-aa58-11eb-9a66-934104d6f2d6.PNG)
 Yang ke 5 selanjutnya yaitu pembuatan fungsi dan cara pemanggilannya, refresh kembali dan lihat perubahannya.
 ![Lab java 5](https://user-images.githubusercontent.com/56400200/116767294-795ecf80-aa59-11eb-9037-bf61aa085258.PNG)
+![Lab java (5)](https://user-images.githubusercontent.com/56400200/116767328-b62ac680-aa59-11eb-81ed-b07e5fec677e.PNG)
+Langkah selanjutnya yaitu ke 6 operasi dasar aritmatika. refresh lihat perubahan dan hasilnya.
+
 
 
 
