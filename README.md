@@ -11,4 +11,7 @@ Langkah ke 3 selanjutnya pemakaian method dalam objek seperti berikut ini. refre
 Selanjutnya yang ke 4 yaitu pemakaian prompt seperti yang di lihat di bawah ini. kemudian refresh kembali dan masukan nama kita sendiri lihat hasilnya dan perubahannya.
 ![Lab java 4](https://user-images.githubusercontent.com/56400200/116766969-81b60b00-aa57-11eb-8bb5-f5b27808a127.PNG)
 ![Lab Java (4)](https://user-images.githubusercontent.com/56400200/116767078-128ce680-aa58-11eb-87f3-3718e6a754cc.PNG)
+![Lab java (4 ke 2)](https://user-images.githubusercontent.com/56400200/116767122-3f40fe00-aa58-11eb-9a66-934104d6f2d6.PNG)
+Yang ke 5 selanjutnya yaitu pembuatan fungsi dan cara pemanggilannya, refresh kembali dan lihat perubahannya.
+
 
