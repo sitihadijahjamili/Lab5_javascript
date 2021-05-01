@@ -7,4 +7,6 @@ Kedua yaitu javascript dasaar pemakaian alert sebagai propety windownya. refresh
 ![Lab Java (2)](https://user-images.githubusercontent.com/56400200/116766712-1d467c00-aa56-11eb-8eae-dab7ef144562.PNG)
 Langkah ke 3 selanjutnya pemakaian method dalam objek seperti berikut ini. refresh kembali untuk melihat hasil dan perubahannya.
 ![Lab java 3](https://user-images.githubusercontent.com/56400200/116766769-67c7f880-aa56-11eb-8755-40ae4d495218.PNG)
+![Lab java (3)](https://user-images.githubusercontent.com/56400200/116766802-97770080-aa56-11eb-9a04-c92c187850c3.PNG)
+Selanjutnya yang ke 4 yaitu pemakaian prompt eperti yang di lihat di bawah ini. kemudian refresh kembali dan lihat hasilnya.
 
