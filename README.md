@@ -34,7 +34,7 @@ Langkah ke 10 yaitu pembuatan form Button seperti berikut ini. kemudian refresh 
 ![Lab java (10)](https://user-images.githubusercontent.com/56400200/116768098-66023300-aa5e-11eb-8b3e-d6bd62f460a2.PNG)
 Langkah terakhir 11 yaitu pilih menggunakan checkBox dengan perhitungan otomatis. lihat hasil dan perubahannya
 ![lab java 11](https://user-images.githubusercontent.com/56400200/116768346-21779700-aa60-11eb-8980-7abe388d83c3.png)
-
+![Lab java (11)](https://user-images.githubusercontent.com/56400200/116768404-87641e80-aa60-11eb-8e6b-77923d4021eb.png)
 Terimakasih.
 
 
