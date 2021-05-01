@@ -23,6 +23,9 @@ Selanjutnya langkah ke 7 yaitu seleksi kondisi (if..else) refresh kembali lihat 
 ![Lab java (7)](https://user-images.githubusercontent.com/56400200/116767649-af9d4e80-aa5b-11eb-9f4a-2a9ce619f805.PNG)
 ![Lab java (7 ke 2)](https://user-images.githubusercontent.com/56400200/116767719-191d5d00-aa5c-11eb-9abe-0b7304d89389.PNG)
 Ke Delapan yaitu penggunaan operator switch untuk seleksi kondisi. Refresh kembali dan lihat perubahan dan hasilnya.
+![Lab java 8](https://user-images.githubusercontent.com/56400200/116767821-c98b6100-aa5c-11eb-85d1-77b7736a8dce.PNG)
+
+
 
 
 
