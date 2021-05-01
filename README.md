@@ -32,6 +32,10 @@ Yang ke Sembilan yaitu selanjutnya pembuatan form input. refresh dan lihat perub
 Langkah ke 10 yaitu pembuatan form Button seperti berikut ini. kemudian refresh kembali dan lihat perubahannya.
 ![Lab java 10](https://user-images.githubusercontent.com/56400200/116768066-3521fe00-aa5e-11eb-92b2-b063abbf5195.PNG)
 ![Lab java (10)](https://user-images.githubusercontent.com/56400200/116768098-66023300-aa5e-11eb-8b3e-d6bd62f460a2.PNG)
+Langkah terakhir 11 yaitu pilih menggunakan checkBox dengan perhitungan otomatis. lihat hasil dan perubahannya
+![lab java 11](https://user-images.githubusercontent.com/56400200/116768346-21779700-aa60-11eb-8980-7abe388d83c3.png)
+
+Terimakasih.
 
 
 
