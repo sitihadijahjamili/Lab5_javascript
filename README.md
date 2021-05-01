@@ -21,6 +21,10 @@ Langkah selanjutnya yaitu ke 6 operasi dasar aritmatika. refresh lihat perubahan
 Selanjutnya langkah ke 7 yaitu seleksi kondisi (if..else) refresh kembali lihat hasilnya.
 ![Lab java 7](https://user-images.githubusercontent.com/56400200/116767601-66e59580-aa5b-11eb-9601-5e31c2adec73.PNG)
 ![Lab java (7)](https://user-images.githubusercontent.com/56400200/116767649-af9d4e80-aa5b-11eb-9f4a-2a9ce619f805.PNG)
+![Lab java (7 ke 2)](https://user-images.githubusercontent.com/56400200/116767719-191d5d00-aa5c-11eb-9abe-0b7304d89389.PNG)
+Ke Delapan yaitu penggunaan operator switch untuk seleksi kondisi. Refresh kembali dan lihat perubahan dan hasilnya.
+
+
 
 
 
