@@ -10,4 +10,5 @@ Langkah ke 3 selanjutnya pemakaian method dalam objek seperti berikut ini. refre
 ![Lab java (3)](https://user-images.githubusercontent.com/56400200/116766802-97770080-aa56-11eb-9a04-c92c187850c3.PNG)
 Selanjutnya yang ke 4 yaitu pemakaian prompt seperti yang di lihat di bawah ini. kemudian refresh kembali dan masukan nama kita sendiri lihat hasilnya dan perubahannya.
 ![Lab java 4](https://user-images.githubusercontent.com/56400200/116766969-81b60b00-aa57-11eb-8bb5-f5b27808a127.PNG)
+![Lab Java (4)](https://user-images.githubusercontent.com/56400200/116767078-128ce680-aa58-11eb-87f3-3718e6a754cc.PNG)
 
