@@ -19,6 +19,8 @@ Langkah selanjutnya yaitu ke 6 operasi dasar aritmatika. refresh lihat perubahan
 ![Lab java 6](https://user-images.githubusercontent.com/56400200/116767478-9516a580-aa5a-11eb-82a3-76e8975971a2.PNG)
 ![Lab java (6)](https://user-images.githubusercontent.com/56400200/116767521-d7d87d80-aa5a-11eb-8fd4-52c244712230.PNG)
 Selanjutnya langkah ke 7 yaitu seleksi kondisi (if..else) refresh kembali lihat hasilnya.
+![Lab java 7](https://user-images.githubusercontent.com/56400200/116767601-66e59580-aa5b-11eb-9601-5e31c2adec73.PNG)
+
 
 
 
