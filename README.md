@@ -16,6 +16,7 @@ Yang ke 5 selanjutnya yaitu pembuatan fungsi dan cara pemanggilannya, refresh ke
 ![Lab java 5](https://user-images.githubusercontent.com/56400200/116767294-795ecf80-aa59-11eb-9037-bf61aa085258.PNG)
 ![Lab java (5)](https://user-images.githubusercontent.com/56400200/116767328-b62ac680-aa59-11eb-81ed-b07e5fec677e.PNG)
 Langkah selanjutnya yaitu ke 6 operasi dasar aritmatika. refresh lihat perubahan dan hasilnya.
+![Lab java 6](https://user-images.githubusercontent.com/56400200/116767478-9516a580-aa5a-11eb-82a3-76e8975971a2.PNG)
 
 
 
